@@ -62,6 +62,9 @@ function App() {
             </div>
           </div>
         )}
+        <div className='footer'>
+          <p>KAAN AYTEN 2022 Weather App</p>
+        </div>
       </div>
     </div>
   );
