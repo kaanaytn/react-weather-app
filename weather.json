@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 31.387,
+        "lat": 41.1816
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 285.91,
+        "feels_like": 284.42,
+        "temp_min": 285.91,
+        "temp_max": 285.91,
+        "pressure": 1022,
+        "humidity": 45,
+        "sea_level": 1022,
+        "grnd_level": 1017
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.12,
+        "deg": 144,
+        "gust": 2.9
+    },
+    "clouds": {
+        "all": 5
+    },
+    "dt": 1666475371,
+    "sys": {
+        "country": "TR",
+        "sunrise": 1666498473,
+        "sunset": 1666537366
+    },
+    "timezone": 10800,
+    "id": 752184,
+    "name": "Alaplı",
+    "cod": 200
+}
