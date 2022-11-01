@@ -1,4 +1,4 @@
-# App İmages
+# İmages
 
 ![alt text](https://i.hizliresim.com/3ve299k.jpg)
 
